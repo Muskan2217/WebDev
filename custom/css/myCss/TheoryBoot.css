@@ -1,0 +1,9 @@
+body {
+  font-family: "Raleway", Arial, sans-serif;
+}
+
+
+.big_wrapper{ width: 100%;
+              height: 600px;
+              background-image: url("../img/theory img/ban.jpg");
+              border-top: 10px solid #5385c1; }
